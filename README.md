@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">Hello, I'm Lucas, a front-end developer passionate about creating amazing experiences. I'm based in São Paulo, Brazil, and I'm constantly seeking to expand my knowledge and skills!</h3>
 
-<p align="left"> <img src="https://64.media.tumblr.com/7cad9c212d874927c0b69469c649df7f/d0c33dc4908cc2c0-12/s1280x1920/c1f76d88649e2e8e60b2b30a2306c7f7bb3c7766.gif" alt="lucasstoico" /> </p>
+<p align="left"> <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="lucasstoico" /> </p>
 
 - 🌱 I’m currently learning **React**
 
