@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Lucas)](https://git.io/typing-svg)
 <h3 align="center">Hello, I'm Lucas, a front-end developer passionate about creating amazing experiences. I'm based in São Paulo, Brazil, and I'm constantly seeking to expand my knowledge and skills!</h3>
 
 <p align="left"> <img src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966" alt="lucasstoico" /> </p>
